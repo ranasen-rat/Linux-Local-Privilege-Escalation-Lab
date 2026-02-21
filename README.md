@@ -1,5 +1,5 @@
 ---
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e076b51d-616d-48de-8280-b75f8adc3e44" />
 🔥 Linux Privilege Escalation Lab
 
 Complete Vulnerable Environment for Hands‑On Practice
